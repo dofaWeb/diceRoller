@@ -1,0 +1,27 @@
+#main{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+#button{
+    padding: 10px 20px;
+    font-size: 1.5rem;
+    background-color: aqua;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    border-radius: 5px;
+}
+
+#button:hover{
+    background-color: #00bfff;
+}
+
+#input{
+    font-size: 2rem;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+}
